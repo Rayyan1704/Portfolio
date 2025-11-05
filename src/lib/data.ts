@@ -7,7 +7,7 @@ export const aboutData = {
     "I’m aiming to become a top AI engineer and researcher, working on projects that create positive change on a global scale. I’m constantly learning, experimenting and improving, driven by the belief that AI can make the world not just more advanced, but more meaningful. My goal is to shape a future where technology empowers humanity, not the other way around."
   ],
   languages: {
-    spoken: ["English (Fluent)", "Hindi", "Malayalam (Native)"],
+    spoken: ["English", "Hindi", "Malayalam (Native)", "Tamil", "Arabic"],
     technical: ["Python", "JavaScript", "TypeScript", "SQL", "C++"]
   }
 };
