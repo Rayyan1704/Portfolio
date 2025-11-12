@@ -2,7 +2,7 @@
 
 This is a cinematic, futuristic, and fully responsive multi-page portfolio for an aspiring AI Engineer, built with Next.js and powered by Google's Generative AI (Genkit).
 
-The live version can be viewed at [mohammed-aaqil-rayyan.web.app](https://mohammed-aaqil-rayyan.web.app).
+The live version can be viewed at [mohammed-aaqil-rayyan.web.app](https://mohammed-aaqil-rayyan.vercel.app).
 
 ## ✨ Features
 
@@ -26,8 +26,8 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Rayyan1704/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Rayyan1704/Portfolio.git
+    cd Portfolio
     ```
 
 2.  **Install dependencies:**
