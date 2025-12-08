@@ -54,7 +54,4 @@ Open [http://localhost:9002](http://localhost:9002) with your browser to see the
 This project is configured for easy deployment on platforms like [Vercel](https://vercel.com/) or [Firebase Hosting](https://firebase.google.com/docs/hosting).
 
 - **Vercel:** Connect your GitHub repository and Vercel will handle the build and deployment process automatically. Remember to add your `GEMINI_API_KEY` as an environment variable in the Vercel project settings.
-- **Firebase:** Use the Firebase CLI to deploy.
-  ```bash
-  firebase deploy
-  ```
+  
