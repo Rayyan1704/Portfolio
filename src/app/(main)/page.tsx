@@ -23,7 +23,7 @@ export default function Home() {
           transition={{ duration: 0.8, delay: 0.2, ease: 'easeOut' }}
           className="mt-2 font-headline text-2xl font-medium text-primary md:text-3xl"
         >
-          AI Researcher & Engineer
+          AI Researcher and Engineer
         </motion.p>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
